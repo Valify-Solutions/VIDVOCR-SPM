@@ -15,8 +15,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "VIDVOCR",
-            url: "https://github.com/Valify-Solutions/VIDVOCR-SPM/releases/download/2.8.4/VIDVOCR.xcframework.zip",
-            checksum: "91c5d7ff0698ad5ce4993f9b68ed9b5893dada9b435f0051a04c2e96f684438f"
+            url: "https://github.com/Valify-Solutions/VIDVOCR-SPM/releases/download/2.8.5/VIDVOCR.xcframework.zip",
+            checksum: "dba4fc7b264498ae2f2eba537114eb5a98240f29e01d5dd0bdc90654fbf8c2b2"
         )
     ]
 )
