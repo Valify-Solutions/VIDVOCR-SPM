@@ -15,8 +15,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "VIDVOCR",
-            url: "https://valify-public-sdks.s3.eu-central-1.amazonaws.com/VIDVOCR/2.8.3/VIDVOCR.xcframework.zip",
-            checksum: "5a7ab7df348b4dfc804c1a70f7c818c17833a0cb42943f465d501e73d780f732"
+            url: "https://valify-public-sdks.s3.eu-central-1.amazonaws.com/VIDVOCR/2.8.4/VIDVOCR.xcframework.zip",
+            checksum: "91c5d7ff0698ad5ce4993f9b68ed9b5893dada9b435f0051a04c2e96f684438f"
         )
     ]
 )
